@@ -9,3 +9,5 @@ http://webdav.tuebingen.mpg.de/pixel/neural_inpainting/Koehler_Mask_Specific_Inp
 http://bamos.github.io/2016/08/09/deep-completion
 
 https://arxiv.org/abs/1508.06576 Kombinera sammanhang från en bild med stil från en annan
+
+https://www.researchgate.net/profile/Yu_Tsao/publication/283600839_Speech_enhancement_based_on_deep_denoising_autoencoder/links/577b486108ae213761c9c7f8.pdf Autoencoders for att göra tal renare, ish vad vi vill
