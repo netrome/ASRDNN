@@ -8,4 +8,4 @@ http://webdav.tuebingen.mpg.de/pixel/neural_inpainting/Koehler_Mask_Specific_Inp
 
 http://bamos.github.io/2016/08/09/deep-completion
 
-https://arxiv.org/abs/1508.06576 - Autoencoder för bilder
+https://arxiv.org/abs/1508.06576 Kombinera sammanhang från en bild med stil från en annan
